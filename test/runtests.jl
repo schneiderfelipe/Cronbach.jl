@@ -1,6 +1,9 @@
 using Cronbach
 using Test
 
+using LinearAlgebra: diag
+using Statistics: cov
+
 @testset "Cronbach.jl" begin
-    # Write your tests here.
+    include("test_tauequivalent.jl")
 end

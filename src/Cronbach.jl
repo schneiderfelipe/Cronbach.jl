@@ -1,5 +1,9 @@
 module Cronbach
 
-# Write your package code here.
+using LinearAlgebra: diag
+
+export cronbach
+
+include("tauequivalent.jl")
 
 end

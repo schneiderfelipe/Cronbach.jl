@@ -2,7 +2,14 @@
 CurrentModule = Cronbach
 ```
 
-# Cronbach
+````@eval
+using Markdown
+
+readme = read("../../README.md", String)
+Markdown.parse(readme)
+````
+
+See the complete API below:
 
 ```@index
 ```
