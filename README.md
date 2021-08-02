@@ -1,5 +1,6 @@
 # Cronbach.jl
 
+[![DOI](https://zenodo.org/badge/67431697.svg)](https://zenodo.org/badge/latestdoi/67431697)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://schneiderfelipe.github.io/Cronbach.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://schneiderfelipe.github.io/Cronbach.jl/dev)
 [![Build Status](https://github.com/schneiderfelipe/Cronbach.jl/workflows/CI/badge.svg)](https://github.com/schneiderfelipe/Cronbach.jl/actions)
@@ -18,3 +19,7 @@ julia> C = [10  6  6  6;  # fictitious data
 julia> cronbach(C)
 0.8135593220338984
 ```
+
+## Citing Cronbach.jl
+
+If you use Cronbach.jl in your research, please cite it.
