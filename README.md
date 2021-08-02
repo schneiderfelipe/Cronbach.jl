@@ -1,6 +1,6 @@
 # Cronbach.jl
 
-[![DOI](https://zenodo.org/badge/67431697.svg)](https://zenodo.org/badge/latestdoi/67431697)
+[![DOI](https://zenodo.org/badge/348867197.svg)](https://zenodo.org/badge/latestdoi/348867197)
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://schneiderfelipe.github.io/Cronbach.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://schneiderfelipe.github.io/Cronbach.jl/dev)
 [![Build Status](https://github.com/schneiderfelipe/Cronbach.jl/workflows/CI/badge.svg)](https://github.com/schneiderfelipe/Cronbach.jl/actions)
